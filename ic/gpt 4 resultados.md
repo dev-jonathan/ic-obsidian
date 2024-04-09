@@ -9,7 +9,9 @@ Tags:
 Foi utilizado o [GPTs](https://openai.com/blog/introducing-gpts) aonde se pode criar versões personalizadas do ChatGPT que combinam instruções, conhecimento extra e qualquer combinação de habilidades.
 
 
+
 ![[Pasted image 20240408121145.png]]
+
 
 ![[Pasted image 20240408121345.png]]
 
